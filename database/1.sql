@@ -1,0 +1,9 @@
+
+
+
+CREATE DATABASE `StudyDB`;
+
+SHOW DATABASES;user5
+
+
+
